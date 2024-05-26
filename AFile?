@@ -42,18 +42,18 @@
       </nav>
     </div>
 
-    <h2>What i like</h2>
+    <h2>about games</h2>
 
     <div class="row">
       <div class="col-lg-4">
         <h4>Games</h4>
-        <p>Donec Playing games is very fun and relaxing.</p>
+        <p>Donec Playing games is very fun and relaxing for a majority of people.</p>
 
         <h4>Subheading</h4>
-        <p>I like to do it in my free time.</p>
+        <p>many people play games on a regular basis.</p>
 
         <h4>Subheading</h4>
-        <p> Playing games can have benefits.</p>
+        <p> Playing games can have lots of benefits and drawbacks.</p>
       </div>
 
       <div class="col-lg-4">
@@ -68,7 +68,7 @@
       </div>
       <div class="col-lg-4">
         <h4>Subheading</h4>
-        <p>although it only happens after prolonged playing time it can cause eye strain, addiction and imsomnia.</p>
+        <p>although it only happens after prolonged playing time games can cause eye strain, addiction and imsomnia.</p>
 
       </div>
 
