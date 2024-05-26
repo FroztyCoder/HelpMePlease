@@ -53,28 +53,22 @@
         <p>I like to do it in my free time.</p>
 
         <h4>Subheading</h4>
-        <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        <p> Playing games can have benefits.</p>
       </div>
 
       <div class="col-lg-4">
         <h4>Subheading</h4>
-        <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+        <p>Donec Games have been proven to improve cognitive thinking, problem solving skills, and reaction time.</p>
 
         <h4>Subheading</h4>
-        <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+        <p>Games are also a great way to socialize with friends and allows kids to have a good time, greatly benefiting mental health.</p>
 
         <h4>Subheading</h4>
-        <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        <p>playing too much games can have negative effects.</p>
       </div>
       <div class="col-lg-4">
         <h4>Subheading</h4>
-        <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-        <h4>Subheading</h4>
-        <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-        <h4>Subheading</h4>
-        <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        <p>although it only happens after prolonged playing time it can cause eye strain, addiction and imsomnia.</p>
 
       </div>
 
@@ -86,17 +80,17 @@
     <table class="table">
       <thead>
         <tr>
-          <th scope="col">normalBiggy</th>
-          <th scope="col">dinoBiggy</th>
-          <th scope="col">biggyLordsofBiggian</th>
-          <th scope="col">biggyGodsofAllBiggyLands</th>
+          <th scope="col">something</th>
+          <th scope="col">something</th>
+          <th scope="col">something</th>
+          <th scope="col">something</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>normal,hungy</td>
-          <td>verybig,supahungy</td>
-          <td>most powerful, ruler of all biggy universes, goofy</td>
+          <td>something</td>
+          <td>something</td>
+          <td>something</td>
           <td>Hi</td>
         </tr>
       </tbody>
